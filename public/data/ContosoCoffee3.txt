@@ -1,0 +1,40 @@
+AddressLine	City	Municipality	AdminDivision	Country	PostCode	Latitude	Longitude	Phone	IsWiFiHotSpot	IsWheelchairAccessible	Opens	Closes	
+935 N Krome Ave	Homestead		FL	US	33034	25.45709	-80.47742	(239) 555-0121	True	True	700	1800	
+12669 S Dixie Hwy	Miami		FL	US	33156	25.65385	-80.32947	(239) 555-0168	False	True	600	2300	
+350 Ocean Dr	Miami Beach		FL	US	33139	25.77258	-80.13225	(239) 555-0181	False	True	600	2300	
+6655 Ashcroft Dr	Houston		TX	US	77081	29.70894	-95.49112	(210) 555-0117	False	True	600	2300	
+622 George Washington Hwy	Lincoln		RI	US	02865	41.93546	-71.4808	(401) 555-0125	False	False	700	1800	
+1615 W Wellington Ave	Chicago		IL	US	60657	41.93589	-87.66917	(217) 555-0179	False	True	800	2200	
+2941 N Clark St	Chicago		IL	US	60657	41.93603	-87.64775	(217) 555-0138	True	True	900	2400	
+3 North St	Windsor Locks		CT	US	06096	41.93644	-72.63067	(203) 555-0134	False	False	700	1800	
+305 Army Trail Rd	Glendale Heights		IL	US	60139	41.93655	-88.07472	(217) 555-0127	False	True	800	2200	
+3144 N Narragansett Ave	Chicago		IL	US	60634	41.93676	-87.78566	(217) 555-0164	False	True	700	1800	
+3002 N Sheffield Ave	Chicago		IL	US	60657	41.93681	-87.65394	(217) 555-0122	False	False	700	1800	
+1094 Bay St	Taunton		MA	US	02780	41.93703	-71.11111	(339) 555-0190	False	True	800	2200	
+28 Pleasant Rd	Enfield		CT	US	06082	41.93742	-72.60954	(203) 555-0101	False	True	700	1800	
+7126 Clarewood Dr	Houston		TX	US	77036	29.70961	-95.51303	(210) 555-0172	False	False	900	2400	
+2150 Bloomingdale Rd	Glendale Heights		IL	US	60139	41.93747	-88.0801	(217) 555-0197	False	False	600	2300	
+169 Pine St	Attleboro		MA	US	02703	41.9375	-71.28221	(339) 555-0166	False	True	800	2200	
+517 W Lake St	Addison		IL	US	60101	41.93757	-88.00082	(217) 555-0132	True	True	700	1800	
+503 W Lake St	Addison		IL	US	60101	41.93768	-88.00106	(217) 555-0192	False	False	700	1800	
+35 S Main St	East Granby		CT	US	06026	41.93811	-72.72877	(203) 555-0185	False	False	800	2200	
+3109 N Halsted St	Chicago		IL	US	60657	41.93826	-87.64936	(217) 555-0122	True	False	600	2300	
+613 W Lake St	Addison		IL	US	60101	41.93898	-88.00413	(217) 555-0105	False	False	700	1800	
+3753 W Belmont Ave	Chicago		IL	US	60618	41.939	-87.72149	(217) 555-0158	False	True	800	2200	
+332 W Army Trail Rd	Bloomingdale		IL	US	60108	41.93914	-88.10544	(217) 555-0112	False	True	700	1800	
+3114 N Lincoln Ave	Chicago		IL	US	60657	41.93928	-87.66795	(217) 555-0160	False	False	700	1800	
+2441 University Blvd	Houston		TX	US	77005	29.71493	-95.41568	(210) 555-0131	False	True	800	2200	
+3159 N Southport Ave	Chicago		IL	US	60657	41.93931	-87.66399	(217) 555-0170	False	True	800	2200	
+3400 River Rd	Franklin Park		IL	US	60131	41.93961	-87.85233	(217) 555-0193	False	True	1000	2000	
+1001 W Belmont Ave	Chicago		IL	US	60657	41.93972	-87.65456	(217) 555-0121	False	False	700	1800	
+2896 State Hwy	Wellfleet		MA	US	02667	41.93974	-70.02272	(339) 555-0107	False	True	800	2200	
+1232 W Belmont Ave	Chicago		IL	US	60657	41.9399	-87.66021	(217) 555-0157	True	True	900	2400	
+962 W Belmont Ave	Chicago		IL	US	60657	41.93999	-87.65355	(217) 555-0197	False	False	600	2300	
+3215 N Sheffield Ave	Chicago		IL	US	60657	41.94124	-87.65433	(217) 555-0191	False	True	800	2200	
+298 Glen Ellyn Rd	Bloomingdale		IL	US	60108	41.9417	-88.06281	(217) 555-0117	True	True	700	1800	
+3311 N Clark St	Chicago		IL	US	60657	41.94211	-87.65269	(217) 555-0116	False	False	700	1800	
+3426 N Harlem Ave	Chicago		IL	US	60634	41.94286	-87.80675	(217) 555-0116	False	True	800	2200	
+2520 Amherst St	Houston		TX	US	77005	29.71581	-95.41739	(210) 555-0130	True	True	700	1800	
+3418 N Southport Ave	Chicago		IL	US	60657	41.944	-87.66386	(217) 555-0142	False	False	900	2400	
+3441 N Sheffield Ave	Chicago		IL	US	60657	41.9451	-87.65443	(217) 555-0169	False	True	800	2200	
+3546 N Milwaukee Ave	Chicago		IL	US	60641	41.94533	-87.73396	(217) 555-0163	False	True	700	1800	

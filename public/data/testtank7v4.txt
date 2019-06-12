@@ -1,0 +1,19 @@
+Name	AddressLine	Country	Phone	Website	Latitude	Longitude	IsWiFiHotSpot	IsWheelchairAccessible	Opens	Closes	Municipality	AdminDivision
+Café Gollem	"Raamsteeg 4, 1012VZ, Amsterdam"	Netherlands	+(31)-(6)-14630469	cafegollem.nl	52.37031	4.88889	False	True	600	2300		FL
+Café Gollem	"Daniël Stalpertstraat 74, 1072XC, Amsterdam"	Netherlands		cafegollem.nl	52.35613	4.89059	False	True	600	2300		FL
+Proeflokaal Gollem Amstelstraat	"Amstelstraat 34, 1017DA, Amsterdam"	Netherlands		www.cafegollem.nl	52.36613	4.89987	False	True	600	2300		TX
+Gollem Aan Het Water	"Entrepotdok 64, 1018AD, Amsterdam"	Netherlands	+(31)-(20)-7740212	cafegollem.nl	52.36814	4.91619	True	True	900	2400		IL
+Delirium Café Amsterdam	"De Ruijterkade 42-A, 1012AA, Amsterdam"	Netherlands	+(31)-(6)-29395410		52.38099	4.89814	False	False	700	1800		CT
+Delirium Café	"Piet Heinkade 4-6-8, 1019BR, Amsterdam"	Netherlands	+(31)-(20)-8110381	www.deliriumcafeamsterdam.nl	52.37742	4.91272	False	True	700	1800		IL
+Café Westerdok	"Westerdoksdijk 715A, 1013BX, Amsterdam"	Netherlands	+(31)-(20)-4289670	cafewesterdok.nl/	52.3893	4.89119	False	True	800	2200		MA
+Coffeecompany Westerdok	"Westerdok 808, 1013BV, Amsterdam"	Netherlands	+(31)-(20)-4282248	coffeecompany.nl/locations/westerdok-808/	52.38652	4.89191	False	True	700	1800		CT
+Café Thijssen	"Brouwersgracht 107, 1015GD, Amsterdam"	Netherlands	+(31)-(20)-6238994	cafethijssen.nl	52.38078	4.88742	False	True	800	2200		MA
+Kingfisher Café	"Ferdinand Bolstraat 24, 1072LA, Amsterdam"	Netherlands	+(31)-(20)-6712395	kingfishercafe.nl	52.35675	4.89056	True	True	700	1800		IL
+Café Restaurant Floor	"Schouwburgplein 28, 3012CL, Rotterdam"	Netherlands	+(31)-(10)-4045288	www.cafefloor.nl	51.92013	4.47464	False	False	700	1800		IL
+Wild Bean Café	"Tjalklaan 12, 3044AZ, Rotterdam"	Netherlands	+(31)-(10)-4621072	www.bp.com/nl_nl/on-the-road/netherlands.html	51.92235	4.42106	False	False	700	1800		IL
+Wild Bean Café	"Capelseweg 355, 3068AX, Rotterdam"	Netherlands	+(31)-(10)-4563473	www.bp.com/nl_nl/on-the-road/netherlands.html	51.95819	4.56197	False	True	700	1800		IL
+Grand Café Lebowski	"Domplein 17, 3512JC, Utrecht"	Netherlands	+(31)-(30)-2315217	www.grandcafelebowski.nl	52.09071	5.12072	False	True	800	2200		TX
+Stadscafé Jan	"Grote Markt 32, 6511KB, Nijmegen"	Netherlands			51.84762	5.86425	False	True	800	2200		IL
+Café Walenburg	"Walenburgerweg 62-B, 3033AE, Rotterdam"	Netherlands	+(31)-(10)-4669577		51.929	4.46731	False	True	800	2200		IL
+Koffiehuis Walenburg	"Walenburgerweg 85, 3033AG, Rotterdam"	Netherlands			51.92854	4.46613	False	True	800	2200		IL
+Sijf	"Oude Binnenweg 115, 3012JB, Rotterdam"	Netherlands	+(31)-(10)-4332610	www.sijf.nl	51.91736	4.47427	False	True	800	2200		IL

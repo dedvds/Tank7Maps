@@ -1,0 +1,13 @@
+Name	AddressLine	City	Municipality	AdminDivision	Country	PostCode	Latitude	Longitude	Phone	IsWiFiHotSpot	IsWheelchairAccessible	Opens	Closes	
+Test	12669 S Dixie Hwy	Miami		FL	US	33156	25.65385	-80.32947	(239) 555-0168	False	True	600	2300	
+Test	350 Ocean Dr	Miami Beach		FL	US	33139	25.77258	-80.13225	(239) 555-0181	False	True	600	2300	
+Test	6655 Ashcroft Dr	Houston		TX	US	77081	29.70894	-95.49112	(210) 555-0117	False	True	600	2300	
+Test	622 George Washington Hwy	Lincoln		RI	US	02865	41.93546	-71.4808	(401) 555-0125	False	False	700	1800	
+Test	1615 W Wellington Ave	Chicago		IL	US	60657	41.93589	-87.66917	(217) 555-0179	False	True	800	2200	
+Test	2941 N Clark St	Chicago		IL	US	60657	41.93603	-87.64775	(217) 555-0138	True	True	900	2400	
+Test	3 North St	Windsor Locks		CT	US	06096	41.93644	-72.63067	(203) 555-0134	False	False	700	1800	
+Test	305 Army Trail Rd	Glendale Heights		IL	US	60139	41.93655	-88.07472	(217) 555-0127	False	True	800	2200	
+Test	3144 N Narragansett Ave	Chicago		IL	US	60634	41.93676	-87.78566	(217) 555-0164	False	True	700	1800	
+Test	3002 N Sheffield Ave	Chicago		IL	US	60657	41.93681	-87.65394	(217) 555-0122	False	False	700	1800	
+Test	1094 Bay St	Taunton		MA	US	02780	41.93703	-71.11111	(339) 555-0190	False	True	800	2200	
+Test	28 Pleasant Rd	Enfield		CT	US	06082	41.93742	-72.60954	(203) 555-0101	False	True	700	1800	
